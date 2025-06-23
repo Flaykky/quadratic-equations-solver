@@ -114,3 +114,8 @@ x2 = 2.000000
 * Handles floating-point numbers: e.g., `0.5x^2 + 1.2x - 3 = 0`
 * All white spaces are ignored during parsing.
 
+## License
+
+Distributed under the MIT License. See [LICENSE](LICENSE) file for details.
+
+
